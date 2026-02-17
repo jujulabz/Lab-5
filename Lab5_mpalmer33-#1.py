@@ -45,3 +45,4 @@ elif die1 == 6 and die2 == 6:
     print("Boxcars")
 else:
     print("Nothing")
+
